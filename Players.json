@@ -1,12 +1,15 @@
 [
     {
-        "name": "James Brown",
-        "sport": "Basketball",
-        "team": { "name": "Raptors", "city": "Toronto" }
+        "name": "James Brown", // string
+        "sport": "Basketball", // string
+        "team": { // object
+            "name": "Raptors", // string
+            "city": "Toronto" // string
+        }
     },
     {
-        "name": "Maria Sharapova",
-        "sport": "Tennis",
-        "team": null
+        "name": "Maria Sharapova", // string
+        "sport": "Tennis", // string
+        "team": null // null (no team)
     }
 ]
