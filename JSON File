@@ -1,0 +1,12 @@
+[
+    {
+        "name": "James Brown",
+        "sport": "Basketball",
+        "team": { "name": "Raptors", "city": "Toronto" }
+    },
+    {
+        "name": "Maria Sharapova",
+        "sport": "Tennis",
+        "team": null
+    }
+]
