@@ -7,3 +7,5 @@
 - name: Maria Sharapova
   sport: Tennis
   team: 
+# Any text intended for humans, YAML will ignore it
+someKey: someValue # another comment
